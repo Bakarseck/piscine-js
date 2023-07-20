@@ -30,9 +30,9 @@ quest09=("verydisco" "verydisco-forever" "tell-me-how-many" "tell-me-who" "tell-
 
 # for element in "${quest08[@]}"
 # do
-#     wget --no-verbose https://learn.zone01dakar.sn/git/root/public/raw/branch/master/subjects/${element}/README.md
+    # wget --no-verbose https://learn.zone01dakar.sn/git/root/public/raw/branch/master/subjects/${element}/README.md
 
-#     mv README.md ${element}.md
+    # mv README.md ${element}.md
 # done
 
 wget --no-verbose https://learn.zone01dakar.sn/git/root/public/raw/branch/master/subjects/crossword/README.md
