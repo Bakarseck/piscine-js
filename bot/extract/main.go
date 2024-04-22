@@ -1,5 +1,11 @@
 package main
 
+import (
+	"encoding/json"
+	"fmt"
+	"os"
+)
+
 type Data struct {
 	ID       int         `json:"id"`
 	Name     string      `json:"name"`
@@ -12,6 +18,7 @@ type Child struct {
 	Signup      interface{} `json:"signup"`
 	Onboarding  interface{} `json:"onboarding"`
 	PiscineGo   Piscine     `json:"piscine-go"`
+	PiscineRust Piscine 	`json:"piscine-rust"`
 	Div01       interface{} `json:"interface"`
 	Rattrapages interface{} `json:"rattrapages"`
 }
@@ -21,24 +28,24 @@ type Piscine struct {
 	Children interface{} `json:"children"`
 }
 
-// func main() {
+func main() {
 
-// 	filename := "all01.json"
+	filename := "all01.json"
 
-// 	content, err := os.ReadFile(filename)
-// 	if err != nil {
-// 		fmt.Println("Erreur :", err)
-// 		return
-// 	}
+	content, err := os.ReadFile(filename)
+	if err != nil {
+		fmt.Println("Erreur :", err)
+		return
+	}
 
-// 	var data Data
+	var data Data
 
-// 	err = json.Unmarshal(content, &data)
-// 	if err != nil {
-// 		fmt.Println("Erreur :", err)
-// 		return
-// 	}
+	err = json.Unmarshal(content, &data)
+	if err != nil {
+		fmt.Println("Erreur :", err)
+		return
+	}
 
-// 	fmt.Println(data.Children.PiscineGo.Atrr)
+	fmt.Println(data.Children.PiscineGo.Atrr)
 
-// }
+}
