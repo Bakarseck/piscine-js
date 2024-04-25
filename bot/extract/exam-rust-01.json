@@ -1,0 +1,752 @@
+{
+    "children": {
+        "counting-words": {
+            "id": 100383,
+            "name": "counting_words",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/counting_words/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "counting_words/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "counting-words",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/counting-words",
+            "index": 0
+        },
+        "partial-sums": {
+            "id": 100384,
+            "name": "partial_sums",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/partial_sums/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "partial_sums/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "partial-sums",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/partial-sums",
+            "index": 1
+        },
+        "inv-pyramid": {
+            "id": 100385,
+            "name": "inv_pyramid",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/inv_pyramid/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "inv_pyramid/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "inv-pyramid",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/inv-pyramid",
+            "index": 2
+        },
+        "previousprime": {
+            "id": 100388,
+            "name": "previousprime",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/previousprime/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "previousprime/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "previousprime",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/previousprime",
+            "index": 3
+        },
+        "nextprime": {
+            "id": 100387,
+            "name": "nextprime",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/nextprime/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "nextprime/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "nextprime",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/nextprime",
+            "index": 4
+        },
+        "reverse-it": {
+            "id": 100382,
+            "name": "reverse_it",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/reverse_it/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "reverse_it/src/lib.rs"
+                ],
+                "group": 1
+            },
+            "key": "reverse-it",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/reverse-it",
+            "index": 5
+        },
+        "profanity-filter": {
+            "id": 100378,
+            "name": "profanity_filter",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/profanity_filter/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 11000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "profanity_filter/src/lib.rs"
+                ],
+                "group": 2
+            },
+            "key": "profanity-filter",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/profanity-filter",
+            "index": 6
+        },
+        "question-mark": {
+            "id": 100379,
+            "name": "question_mark",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/question_mark/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 11000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "question_mark/src/lib.rs"
+                ],
+                "group": 2
+            },
+            "key": "question-mark",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/question-mark",
+            "index": 7
+        },
+        "talking": {
+            "id": 100335,
+            "name": "talking",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/talking/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 11000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 4,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "talking/src/lib.rs"
+                ],
+                "group": 2
+            },
+            "key": "talking",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/talking",
+            "index": 8
+        },
+        "spelling": {
+            "id": 100340,
+            "name": "spelling",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/spelling/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 16500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "spelling/src/lib.rs"
+                ],
+                "group": 3
+            },
+            "key": "spelling",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/spelling",
+            "index": 9
+        },
+        "rpn": {
+            "id": 100393,
+            "name": "rpn",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/rpn/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 16500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "rpn/src/main.rs"
+                ],
+                "group": 3
+            },
+            "key": "rpn",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/rpn",
+            "index": 10
+        },
+        "queens": {
+            "id": 100390,
+            "name": "queens",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/queens/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 16500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "queens/src/lib.rs"
+                ],
+                "group": 3
+            },
+            "key": "queens",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/queens",
+            "index": 11
+        },
+        "scytale-cipher": {
+            "id": 100342,
+            "name": "scytale_cipher",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/scytale_cipher/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 16500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 6,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "scytale_cipher/src/lib.rs"
+                ],
+                "group": 3
+            },
+            "key": "scytale-cipher",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/scytale-cipher",
+            "index": 12
+        },
+        "roman-numbers": {
+            "id": 100360,
+            "name": "roman_numbers",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/roman_numbers/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 22000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 8,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "roman_numbers/src/lib.rs"
+                ],
+                "group": 4
+            },
+            "key": "roman-numbers",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/roman-numbers",
+            "index": 13
+        },
+        "matrix-display": {
+            "id": 100391,
+            "name": "matrix_display",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/matrix_display/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 22000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 8,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "matrix_display/src/lib.rs"
+                ],
+                "group": 4
+            },
+            "key": "matrix-display",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/matrix-display",
+            "index": 14
+        },
+        "generics-list": {
+            "id": 100363,
+            "name": "generics_list",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/generics_list/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 22000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 8,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "generics_list/src/lib.rs"
+                ],
+                "group": 4
+            },
+            "key": "generics-list",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/generics-list",
+            "index": 15
+        },
+        "box-recursion": {
+            "id": 100380,
+            "name": "box_recursion",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/box_recursion/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 27500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 10,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "box_recursion/src/lib.rs"
+                ],
+                "group": 5
+            },
+            "key": "box-recursion",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/box-recursion",
+            "index": 16
+        },
+        "commits-stats": {
+            "id": 100361,
+            "name": "commits_stats",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/commits_stats/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 5500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 2,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "commits_stats/src/lib.rs"
+                ]
+            },
+            "key": "commits-stats",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/commits-stats",
+            "index": 17
+        },
+        "blood-types-s": {
+            "id": 100386,
+            "name": "blood_types_s",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/blood_types_s/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 27500,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 10,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "blood_types_s/src/lib.rs"
+                ],
+                "group": 5
+            },
+            "key": "blood-types-s",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/blood-types-s",
+            "index": 18
+        },
+        "ref-cell": {
+            "id": 100392,
+            "name": "ref_cell",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/ref_cell/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 33000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 12,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "ref_cell/src/lib.rs",
+                    "ref_cell/src/messenger.rs"
+                ],
+                "group": 6
+            },
+            "key": "ref-cell",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/ref-cell",
+            "index": 19
+        },
+        "drop-the-thread": {
+            "id": 100381,
+            "name": "drop_the_thread",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/drop_the_thread/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 33000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 12,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "drop_the_thread/src/lib.rs"
+                ],
+                "group": 6
+            },
+            "key": "drop-the-thread",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/drop-the-thread",
+            "index": 20
+        },
+        "lunch-queue": {
+            "id": 100389,
+            "name": "lunch_queue",
+            "type": "exercise",
+            "attrs": {
+                "campus": "dakar",
+                "subject": "/markdown/root/public/subjects/lunch_queue/README.md",
+                "validations": [
+                    {
+                        "type": "tester",
+                        "testImage": "ghcr.io/01-edu/test-rust",
+                        "cooldown": 180000
+                    }
+                ],
+                "baseXp": 33000,
+                "category": "required",
+                "delay": 0,
+                "difficulty": 12,
+                "duration": 0,
+                "level": 16,
+                "parentType": "exam",
+                "rootName": "piscine-rust",
+                "rootPath": "/dakar/div-01/piscine-rust",
+                "xpIndex": 60,
+                "language": "rust",
+                "expectedFiles": [
+                    "lunch_queue/src/lib.rs"
+                ],
+                "group": 6
+            },
+            "key": "lunch-queue",
+            "path": "/dakar/div-01/piscine-rust/exam-03-rust/lunch-queue",
+            "index": 21
+        }
+    }
+}
