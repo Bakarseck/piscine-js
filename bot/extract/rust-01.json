@@ -1,4 +1,4 @@
-"exam-01-rust": {
+"exam-01-rust":28000 {
     "id": 100394,
     "name": "Exam 01-rust",
     "type": "exam",
@@ -21,7 +21,8 @@
       "eventStartDelay": 60
     },
     "children": {
-      "division-and-remainder": {
+      //level1 2800
+      "division-and-remainder":2800 {
         "id": 100396,
         "name": "division_and_remainder",
         "type": "exercise",
@@ -55,7 +56,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/division-and-remainder",
         "index": 0
       },
-      "matrix-transposition": {
+      "matrix-transposition":2800 {
         "id": 100395,
         "name": "matrix_transposition",
         "type": "exercise",
@@ -89,7 +90,8 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/matrix-transposition",
         "index": 1
       },
-      "reverse-it": {
+      //level2 5600 xp
+      "reverse-it":5600 {
         "id": 100382,
         "name": "reverse_it",
         "type": "exercise",
@@ -123,7 +125,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/reverse-it",
         "index": 2
       },
-      "bigger": {
+      "bigger":5600 {
         "id": 100398,
         "name": "bigger",
         "type": "exercise",
@@ -157,7 +159,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/bigger",
         "index": 3
       },
-      "capitalizing": {
+      "capitalizing":5600 {
         "id": 100397,
         "name": "capitalizing",
         "type": "exercise",
@@ -191,7 +193,8 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/capitalizing",
         "index": 4
       },
-      "counting-words": {
+      //level3 8400 xp
+      "counting-words":8400 {
         "id": 100383,
         "name": "counting_words",
         "type": "exercise",
@@ -225,7 +228,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/counting-words",
         "index": 5
       },
-      "partial-sums": {
+      "partial-sums":8400 {
         "id": 100384,
         "name": "partial_sums",
         "type": "exercise",
@@ -259,7 +262,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/partial-sums",
         "index": 6
       },
-      "inv-pyramid": {
+      "inv-pyramid":8400 {
         "id": 100385,
         "name": "inv_pyramid",
         "type": "exercise",
@@ -293,7 +296,8 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/inv-pyramid",
         "index": 7
       },
-      "insertion-sort": {
+      //level4 11200xp
+      "insertion-sort":11200 {
         "id": 100399,
         "name": "insertion_sort",
         "type": "exercise",
@@ -327,7 +331,7 @@
         "path": "/dakar/div-01/piscine-rust/exam-01-rust/insertion-sort",
         "index": 8
       },
-      "rpn": {
+      "rpn":11200 {
         "id": 100393,
         "name": "rpn",
         "type": "exercise",
